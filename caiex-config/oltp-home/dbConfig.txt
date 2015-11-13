@@ -1,0 +1,7 @@
+oltp.jdbc.url=jdbc:mysql://192.168.1.156:3306/caiex?zeroDateTimeBehavior=convertToNull&useUnicode=true&characterEncoding=utf8
+#oltp.jdbc.url=jdbc:mysql://182.92.148.240:3306/crawler?zeroDateTimeBehavior=convertToNull&useUnicode=true&characterEncoding=utf8
+oltp.jdbc.user=caiex
+oltp.jdbc.password=12345678
+ipAddr=192.168.1.6
+#ipAddr=localhost
+port=8080
